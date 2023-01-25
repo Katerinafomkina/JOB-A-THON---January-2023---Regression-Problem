@@ -3,7 +3,7 @@
 <img width="1122" alt="Снимок экрана 2023-01-25 в 10 17 23" src="https://user-images.githubusercontent.com/8630013/214486186-9163fcb5-3c51-424f-8d04-54d1ef58d07d.png">
 
 
-This is a repository to Jobathon January 2023 from [Analytics Vidhya]([https://datahack.analyticsvidhya.com/contest/dataverse-hack/True/#About](https://datahack.analyticsvidhya.com/contest/job-a-thon-january-2023/#About))
+This is a repository to Jobathon January 2023 from [Analytics Vidhya]([https://datahack.analyticsvidhya.com/contest/dataverse-hack/True/#About](https://datahack.analyticsvidhya.com/contest/job-a-thon-january-2023/#About)
 
 
 Problem Statement
