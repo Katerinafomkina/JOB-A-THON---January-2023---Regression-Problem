@@ -1,6 +1,6 @@
 # JOB-A-THON---January-2023---Regression-Problem
 
-<img width="1122" alt="Снимок экрана 2023-01-25 в 10 17 23" src="https://user-images.githubusercontent.com/8630013/214486186-9163fcb5-3c51-424f-8d04-54d1ef58d07d.png">
+<img width="1111" alt="Снимок экрана 2023-01-25 в 10 50 57" src="https://user-images.githubusercontent.com/8630013/214491204-58c60751-7f60-4076-8b0f-263dcef1f462.png">
 
 
 This is a repository to Jobathon January 2023 from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/job-a-thon-january-2023/#About)
