@@ -3,6 +3,9 @@
 <img width="1122" alt="Снимок экрана 2023-01-25 в 10 17 23" src="https://user-images.githubusercontent.com/8630013/214486186-9163fcb5-3c51-424f-8d04-54d1ef58d07d.png">
 
 
+This is a repository to Jobathon January 2023 from [Analytics Vidhya]([https://datahack.analyticsvidhya.com/contest/dataverse-hack/True/#About](https://datahack.analyticsvidhya.com/contest/job-a-thon-january-2023/#About))
+
+
 Problem Statement
 VahanBima is one of the leading insurance companies in India. It provides motor vehicle insurances at best prices with 24/7 claim settlement. It offers different types of policies for both personal and commercial vehicles. It has established its brand across different regions in India.
 Around 90% of the businesses today use personalized services. The company wants to launch different personalized experience programs for customers of VahanBima. The personalized experience can be dedicated resources for claim settlement, different kinds of services at doorstep, etc. Inorder to do so, they would like to segment the customers into different tiers based on their customer lifetime value (CLTV).
